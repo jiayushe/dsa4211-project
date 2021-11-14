@@ -1,0 +1,23 @@
+## data
+numpy
+pandas
+xlrd
+## plot
+matplotlib
+seaborn
+## statistics
+scipy
+statsmodels
+## machine learning
+scikit-learn
+imbalanced-learn
+ppscore
+## deep learning
+tensorflow
+minisom
+## explainer
+lime
+shap
+## geospatial
+geopy
+folium

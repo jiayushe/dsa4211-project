@@ -1,0 +1,15 @@
+# python
+__pycache__
+.ipynb_checkpoints
+
+# data
+*.csv
+
+# model
+*.pkl
+
+# osx
+*DS_Store
+
+# vscode
+.vscode
